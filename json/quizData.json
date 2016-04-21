@@ -1,0 +1,13 @@
+{
+	"db" : [
+		{"_n" : 0, "name": "Nøgleproblem 0", "description": "Ipsum lorem 0 ..."},
+		{"_n" : 1, "name": "Nøgleproblem 1", "description": "Ipsum lorem 1 ..."},
+		{"_n" : 2, "name": "Nøgleproblem 2", "description": "Ipsum lorem 1 ..."},
+		{"_p" : 0, "n_": [0], "name": "Problemformulering 0", "description": "Ipsum lorem 0 ..."},
+		{"_p" : 1, "n_": [0,1], "name": "Problemformulering 1", "description": "Ipsum lorem 1 ..."},
+		{"_p" : 2, "n_": [0,1,2], "name": "Problemformulering 2", "description": "Ipsum lorem 1 ..."},
+		{"_u" : 0, "p_": [0], "name": "Underspørgsmål 0", "description": "Ipsum lorem 0 ..."},
+		{"_u" : 1, "p_": [0,1], "name": "Underspørgsmål 1", "description": "Ipsum lorem 1 ..."},
+		{"_u" : 2, "p_": [0,1,2], "feedback": [1,2,3], "name": "Underspørgsmål 2", "description": "Ipsum lorem 1 ..."}
+	]
+}
