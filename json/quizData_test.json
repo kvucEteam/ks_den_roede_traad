@@ -4,28 +4,29 @@
 		{ 	"keyProblem" : "nøgleproblem 0",
 			"problemformulations" : [
 				{
-					"problemformulation" : "(P1) Hvorfor fremstilles islam som et fjendebillede i Danmark og udgør islam en reel trussel for det danske samfund?", 
+					"problemformulation" : "Tekst til problemformulering 0.0", 
 					"subQuestions" : [
-						{"subQuestion" : "(P1) Hvad er fjendebilleder og hvad bruges de til?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(P1) Hvilke årsager kan forklare konflikten mellem muslimer og etniske danskere?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(P1) Er det overhovedet muligt forene islam med den danske kultur?",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(B) Hvad var DDRs forhold til indvandring?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(B) Hvor mange gange om dagen beder muslimer til Allah?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+						{"subQuestion" : "Tekst til korrekt underspørgsmål 0.0.0",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til korrekt underspørgsmål 0.0.1",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til korrekt underspørgsmål 0.0.2",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til forkert underspørgsmål 0.0.0",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til forkert underspørgsmål 0.0.1",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
 					]
 				},
 				{
-					"problemformulation" : "(P2) Hvorfor spillede brugen af fjendebilleder en vigtig rolle for både Hitlers og DDR-styrets overtagelse og fastholdelse af magten?", 
+					"problemformulation" : "Tekst til problemformulering 0.1",  
 					"subQuestions" : [
-						{"subQuestion" : "(P2) Hvad er fjendebilleder og hvad bruges de til?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(P2) Hvordan blev fjendebilleder anvendt i henholdsvis Hitler-Tyskland og DDR?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(P2) Har fortidens fjendebilleder betydning for Tyskland i dag?",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "(B) Er det okay at sammenligne Hitlers jødeforfølgelse med DF’s udlændingepolitik?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+						{"subQuestion" : "Tekst til korrekt underspørgsmål 0.1.0",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til korrekt underspørgsmål 0.1.1",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til korrekt underspørgsmål 0.1.2",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til forkert underspørgsmål 0.1.0",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Tekst til forkert underspørgsmål 0.1.1",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
 					]
 				}
 			]
 		},
 		{ 	"keyProblem" : "nøgleproblem 1",
-			"problemformulations" : [ 
+			"problemformulations" : [
 				{
 					"problemformulation" : "Tekst til problemformulering 1.0", 
 					"subQuestions" : [

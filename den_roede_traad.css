@@ -1,0 +1,51 @@
+
+
+.problem {
+	/*height: 200px;*/ 
+}
+
+.card{
+	border: 1px solid #000;
+	padding: 20px;
+    width: 80%;
+    min-height: 150px;
+    background-color: #ccc;
+
+    background-color: white;
+    /*border-bottom: 7px solid white;*/
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px #ddd;
+    cursor: pointer;
+    /*float: left;*/
+    /*height: 60%;*/
+    overflow: auto;
+    padding: 20px;
+    /*position: absolute;*/
+    /*width: 100%;*/
+}
+
+#wasteBin{
+	border: 2px dashed #000;
+}
+
+#cardPile, #wasteBin {
+	height: 250px;
+}
+
+#dropZone_0, #dropZone_1{
+	border: 2px dashed #000;
+	height: 200px;
+	padding-top: 30%;
+}
+
+.clone{
+	height: auto;
+	width: auto;
+}
+
+.glyphicons-bin{
+	color: #717272;
+	font-size: 5em;
+	margin-top: 15%;
+	margin-left: 38%;
+}
