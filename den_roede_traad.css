@@ -5,16 +5,15 @@
 }
 
 .card{
-	border: 1px solid #000;
+	border: 1px solid #999;
 	padding: 20px;
     width: 80%;
     min-height: 150px;
-    background-color: #ccc;
 
     background-color: white;
     /*border-bottom: 7px solid white;*/
     border-radius: 6px;
-    box-shadow: 1px 1px 1px #ddd;
+    /*box-shadow: 1px 1px 1px #bbb;*/
     cursor: pointer;
     /*float: left;*/
     /*height: 60%;*/
@@ -25,27 +24,63 @@
 }
 
 #wasteBin{
-	border: 2px dashed #000;
+	border: 2px dashed #999;
+	border-radius: 6px;
 }
 
 #cardPile, #wasteBin {
 	height: 250px;
 }
 
-#dropZone_0, #dropZone_1{
-	border: 2px dashed #000;
+#wasteBin {
 	height: 200px;
+}
+
+.dropZone{
+	border: 2px dashed #999;
+	border-radius: 6px;
+	min-height: 200px;
 	padding-top: 30%;
+}
+.sortableZone{
+	padding:20px;
+}
+
+.sortable_text_container {
+    -moz-user-select: none;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px #ddd;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1.7;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding: 20px 10% 20px 20px;
+}
+
+.spacer{
+	margin-top: 10px;
+}
+
+.problemFormulationText{
+	margin-bottom: 20px;
+}
+
+.wasteBinHeading{
+	margin-bottom: 10px;
 }
 
 .clone{
 	height: auto;
 	width: auto;
+	opacity: 0.5;
 }
 
 .glyphicons-bin{
 	color: #717272;
 	font-size: 5em;
-	margin-top: 15%;
+	margin-top: 20%;
 	margin-left: 38%;
+	position: relative;
+	z-index: 5;
 }

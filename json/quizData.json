@@ -1,7 +1,7 @@
 {
 	"mainHeader" : "Den røde tråd",
 	"data": [
-		{ 	"keyProblem" : "nøgleproblem 0",
+		{ 	"keyProblem" : "Fjendebilleder",
 			"problemformulations" : [
 				{
 					"problemformulation" : "(P1) Hvorfor fremstilles islam som et fjendebillede i Danmark og udgør islam en reel trussel for det danske samfund?", 
@@ -24,26 +24,25 @@
 				}
 			]
 		},
-		{ 	"keyProblem" : "nøgleproblem 1",
+		{ 	"keyProblem" : "Samfundsskabt ulighed",
 			"problemformulations" : [ 
 				{
-					"problemformulation" : "Tekst til problemformulering 1.0", 
+					"problemformulation" : "(P1) Hvorvidt er ulighed i det senmoderne Danmark et produkt af markedsmekanismer eller bestemte kulturopfattelser?", 
 					"subQuestions" : [
-						{"subQuestion" : "Tekst til korrekt underspørgsmål 1.0.0",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til korrekt underspørgsmål 1.0.1",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til korrekt underspørgsmål 1.0.2",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til forkert underspørgsmål 1.0.0",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til forkert underspørgsmål 1.0.1",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+						{"subQuestion" : "(P1) Hvad er ulighed og hvordan han den udviklet sig i DK siden 1990?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(P1) Hvordan påvirker sociale og kulturelle baggrunde den sociale mobilitet?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(P1) Bevæger det danske samfund sig i retning af mere eller mindre ulighed?",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(B) Hvad var DDRs forhold til indvandring?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(B) Hvor mange gange om dagen beder muslimer til Allah?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
 					]
 				},
 				{
-					"problemformulation" : "Tekst til problemformulering 1.1", 
+					"problemformulation" : "(P2) Hvorvidt kan den danske velfærdsmodel overleve i sin nuværende form og med hvilke konsekvenser?", 
 					"subQuestions" : [
-						{"subQuestion" : "Tekst til korrekt underspørgsmål 1.1.0",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til korrekt underspørgsmål 1.1.1",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til korrekt underspørgsmål 1.1.2",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til forkert underspørgsmål 1.1.0",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Tekst til forkert underspørgsmål 1.1.1",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+						{"subQuestion" : "(P2) Hvordan har den universelle velfærdsmodel udviklet sig i Danmark siden 1933?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(P2) Hvilket værdigrundlag hviler den universelle model på i Danmark?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(P2) Hvilke fremtidige udfordringer står den universelle model overfor?",  "correct": true, "order" : 3, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "(B) Er det okay at sammenligne Hitlers jødeforfølgelse med DF’s udlændingepolitik?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
 					]
 				}
 			]
@@ -58,7 +57,7 @@
 		{
 			"step" : 2,
 			"header" : "STEP 2 - Den røde tråd",
-			"instruction" : "Træk kortene..."
+			"instruction" : "Placer underspørgsmålene i den rigtige rækkefølge."
 		},
 		{
 			"step" : 3,
