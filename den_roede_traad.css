@@ -1,8 +1,6 @@
 
 
-.problem {
-	/*height: 200px;*/ 
-}
+
 
 .card{
 	border: 1px solid #999;
@@ -21,6 +19,14 @@
     padding: 20px;
     /*position: absolute;*/
     /*width: 100%;*/
+}
+
+#instructionWrap{
+	padding-left: 0px;
+}
+
+#explanationWrap{
+	padding-left: 0px;
 }
 
 #wasteBin{
@@ -58,9 +64,24 @@
     padding: 20px 10% 20px 20px;
 }
 
+.ui-sortable-helper{
+	left: 0px;
+}
+
 .spacer{
 	margin-top: 10px;
 }
+
+.spacerWrap{
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 45%;
+	float: left;
+}
+
+
+
+
 
 .problemFormulationText{
 	margin-bottom: 20px;
