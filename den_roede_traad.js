@@ -383,7 +383,16 @@ $(document).ready(function() {
 
 
 	$( ".card" ).draggable({
-		revert: 'invalid',
+		revert: function(valid) {
+        if(valid) {
+            console.log("Dropped in a valid location");
+        }
+        else {
+         console.log("Dropped in a invalid location");
+         	error_sound();
+        }
+        return !valid;
+    },
 		start: function(event, ui) {
 			console.log('card - START');
 		},
@@ -408,7 +417,7 @@ $(document).ready(function() {
 
 				correct_sound();
 			} else {  // If student answer is wrong...
-				error_sound();
+				//error_sound();
 			}
 
 			if ($('#cardPile .card').length == 0) {
