@@ -384,8 +384,11 @@ $(document).ready(function() {
 
 	$( ".card" ).draggable({
 		revert: function(valid) {
+		// ATO found the following if-else construct, that solves the error-sound issue. It is a good (but undocumented) way of triggering "events" on drop / not-drop.
+		// SEE:   http://jamesallardice.com/run-a-callback-function-when-a-jquery-ui-draggable-widget-reverts/
         if(valid) {
             console.log("Dropped in a valid location");
+            correct_sound();
         }
         else {
          console.log("Dropped in a invalid location");
@@ -415,18 +418,14 @@ $(document).ready(function() {
 
 				dropZoneObj = null;  // Reset dropZoneObj...
 
-				console.log('card - CORRECT ');
-				correct_sound();
-				// $('#audio_correct')[0].play(); // src = '../library/sound_effects/correct_new.mp3';
-			} else {  // If student answer is wrong...
-<<<<<<< HEAD
-				console.log('card - ERROR ');
-				error_sound();
-				// $('#audio_error')[0].play(); // src = '../library/sound_effects/error_new.mp3';
-=======
-				//error_sound();
->>>>>>> 0ec533ace57d984e2c46226c84f1100ce1d189ef
-			}
+				// console.log('card - CORRECT ');
+				// correct_sound();                        
+			} 
+			// else {  // If student answer is wrong...
+
+			// 	console.log('card - ERROR ');
+			// 	error_sound();								// <------ Does not work on mobile devices - see the solution ATO found above. 
+			// }
 
 			if ($('#cardPile .card').length == 0) {
 				console.log('step_2_template - INIT');
