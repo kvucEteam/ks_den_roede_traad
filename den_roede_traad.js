@@ -406,9 +406,13 @@ $(document).ready(function() {
 
 				dropZoneObj = null;  // Reset dropZoneObj...
 
+				console.log('card - CORRECT ');
 				correct_sound();
+				// $('#audio_correct')[0].play(); // src = '../library/sound_effects/correct_new.mp3';
 			} else {  // If student answer is wrong...
+				console.log('card - ERROR ');
 				error_sound();
+				// $('#audio_error')[0].play(); // src = '../library/sound_effects/error_new.mp3';
 			}
 
 			if ($('#cardPile .card').length == 0) {
