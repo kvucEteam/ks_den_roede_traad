@@ -383,7 +383,16 @@ $(document).ready(function() {
 
 
 	$( ".card" ).draggable({
-		revert: 'invalid',
+		revert: function(valid) {
+        if(valid) {
+            console.log("Dropped in a valid location");
+        }
+        else {
+         console.log("Dropped in a invalid location");
+         	error_sound();
+        }
+        return !valid;
+    },
 		start: function(event, ui) {
 			console.log('card - START');
 		},
@@ -410,9 +419,13 @@ $(document).ready(function() {
 				correct_sound();
 				// $('#audio_correct')[0].play(); // src = '../library/sound_effects/correct_new.mp3';
 			} else {  // If student answer is wrong...
+<<<<<<< HEAD
 				console.log('card - ERROR ');
 				error_sound();
 				// $('#audio_error')[0].play(); // src = '../library/sound_effects/error_new.mp3';
+=======
+				//error_sound();
+>>>>>>> 0ec533ace57d984e2c46226c84f1100ce1d189ef
 			}
 
 			if ($('#cardPile .card').length == 0) {
