@@ -123,7 +123,7 @@ function getCardPile(kpNo, pfNo1, pfNo2){
 	console.log('subQuestions 1: ' + JSON.stringify(subQuestions, null, 4));
 	// console.log('subQuestions 1: ' + JSON.stringify(subQuestions));
 
-	// subQuestions = ShuffelArray(subQuestions);
+	subQuestions = ShuffelArray(subQuestions);  // This randomizes the subQuestions
 
 	// console.log('subQuestions 2: ' + JSON.stringify(subQuestions, null, 4));
 	// console.log('subQuestions 2: ' + JSON.stringify(subQuestions));
