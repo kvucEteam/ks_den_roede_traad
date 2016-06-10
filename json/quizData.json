@@ -46,20 +46,113 @@
 					]
 				}
 			]
+		},
+		{ 	"keyProblem" : "Identitetsdannelse",
+			"problemformulations" : [ 
+				{
+					"problemformulation" : "Er det lettere at være ung i det senmoderne samfund end det var i det traditionelle samfund?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvornår opstår ungdomsbegrebet - og hvorfor?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvordan har vilkårene for at udvikle sin identitet som ung ændret sig fra det traditionelle over det moderne til det senmoderne samfund?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvilke udfordringer er forbundet med identitetsdannelse som ung i det senmoderne samfund?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvordan blev de ældre behandlet i det traditionelle samfund?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor er “Paradise Hotel” udtryk for senmodernitet?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				},
+				{
+					"problemformulation" : "Hvilke udfordringer er der forbundet med identitetsdannelsen  i det senmoderne samfund sammenlignet med tidligere samfundstyper?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvad karakteriserer det senmodernesamfund?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor skabte det traditionelle og moderne samfund klare rammer og tydelige værdier i forhold til individets identitetsdannelse?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor oplever man tilsyneladende en større grad af rodløshed og anomi i det senmoderne samfund?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor bliver klassebevidstheden mindre i det senmoderne samfund?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				}
+			]
+		},
+		{ 	"keyProblem" : "Frihed og lighed",
+			"problemformulations" : [ 
+				{
+					"problemformulation" : "Når vi nu i de vestlige samfund fremhæver menneskerettighederne som centrale værdier hvordan kan det så være, at vi vores kamp mod terror indskrænker netop disse værdier?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvad ligger til grund for de vestlige menneskerettigheder og hvad er det centrale i dem?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor er beskyttelsen af centrale dele af vores menneskerettigheder et problem i forbindelse med bekæmpelsen af terror?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvilke udfordringer og problemer kan der ligge for vesten i at indskrænke menneskerettighederne i terrorbekæmpelsen?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad var årsagen til at vi i vesten fik menneskerettighederne?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor invaderede vesten Irak?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				},
+				{
+					"problemformulation" : "Hvorfor er der så meget fokus på social og økonomisk lighed i den danske velfærdsstatsmodel og er dette fokus under pres?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvad er baggrunden for dannelsen af den danske velfærdsstatsmodel og hvad karakteriserer denne?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvilke udfordringer står den danske velfærdsstat overfor?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorledes kan velfærdsstatens udfordringer påvirke den sociale og økonomiske ulighed i Danmark?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad karakteriserer den amerikanske velfærdsstatsmodel?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				}
+			]
+		},
+		{ 	"keyProblem" : "Kina",
+			"problemformulations" : [ 
+				{
+					"problemformulation" : "Hvilke udfordringer står KKP overfor efter 1989 og vil KKP være istand til at fastholde magten i Kina?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvad var baggrunden for opstanden i Kina i 1989?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvordan er det lykkes KKP at fastholde magten i Kina fra 1989 til i dag?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvilke muligheder og begrænsninger giver den økonomiske vækst KKP for at fastholde magten?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Kan Kina blive en supermagt?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor har Kina gjort op med étbarnspolitikken?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				},
+				{
+					"problemformulation" : "Hvad kendetegnede Kinas historie fra 1949 til 1989 og hvilken rolle spiller den for Kina i dag?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvordan lykkedes det Mao og KKP at få magten i Kina i 1949?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad var baggrunden for det store spring fremad, kulturrevolutionen og opstanden i 1989 og hvilke centrale konsekvenser fik disse for kineserne?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "I hvilket omfang kan kinesernes erfaring med forandringer og omvæltninger under Mao og Deng forklare kinesernes syn på politik og politiske forandringer i dag?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad kendetegnede Ming dynastiet?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				}
+			]
+		},
+		{ 	"keyProblem" : "Tyskland",
+			"problemformulations" : [ 
+				{
+					"problemformulation" : "Hvorfor var det nødvendigt for regimerne i det 20. århundredes Tyskland at anvende, fjendebilleder til erobring og fastholdelse af magten?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvad er et fjendebillede og hvorfor er et fjendebillede et stærkt politisk middel?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvordan brugte DNSAP og DDR fjendebilleder og hvilke forskelle og ligheder var der i deres brug af fjendebilleder?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor var det en større succes for DNSAP end DDR at anvende fjendebilleder i erobring og fastholdelse af magten?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvor stort er Tysklands BNP?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvorfor opstod der en arbejderopstand i DDR i 1953?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				},
+				{
+					"problemformulation" : "Hvorfor ser man så stor splittelse i det genforenede Tyskland når genforeningen mellem Øst og Vest blev modtaget med stor begejstring?", 
+					"subQuestions" : [
+						{"subQuestion" : "Hvad var årsagen til sammenlægningen af de to tysklande og hvordan blev sammenlægningen modtaget i de to tysklande?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvilke centrale sociale og politiske forskelle ser man i de to tysklande i dag og hvilke konsekvenser har det haft?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "I hvilket omfang vil det være muligt at mindske splittelsen i Tyskland i fremtiden?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvor mange mennesker boede der i henholdsvis DDR og BRD ved sammenlægningen?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
+					]
+				}
+			]
 		}
 	],
 	"steps" : [
 		{
 			"step" : 1,
 			"header" : "Den røde tråd",
-			"instruction" : "Hvor hører underspørgsmålet til? Træk underspørgsmålene hen til den rette problemformulering. Nogle af spørgsmålene hører ikke til.",
-			"explanation" : "Formålet med denne øvelse er at træne... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+			"instruction" : "Hvor hører underspørgsmålet til? Nu skal du trække underspørgsmålene hen til den rette problemformulering. Nogle af spørgsmålene hører ikke til og skal i skraldespanden.",
+			"explanation" : "Nu skal du lære at vurdere hvilke underspørgsmål der bidrager til besvarelsen af problemformuleringen."
 		},
 		{
 			"step" : 2,
 			"header" : "Den røde tråd",
-			"instruction" : "Nu skal du trække underspørgsmålene på plads, så de står i den rigtige rækkefølge. Tænk over den røde tråd og den logiske rækkefølge, som undersøgelsen af problemet bedst præsenteres på."
+			"instruction" : "Nu skal du trække underspørgsmålene på plads, så de står i den rigtige rækkefølge. Tænk over den røde tråd og den logiske rækkefølge, som undersøgelsen af problemet bedst præsenteres på.",
+			"explanation" : "Nu skal du lære at finde den logiske rækkefølge i underspørgsmålene."
 		}
 	],
-	"generalEndFeedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+	"generalEndFeedback": "<p>Du har løst opgaven korrekt.</p> <p>Du har vist forståelse for sammenhængen mellem problemformuleringen og underspørgsmålene og hvordan underspørgsmålene har betydning for den røde tråd og strukturen i din samlede besvarelse. Endelig viser du forståelse for de taksonomiske niveauer.</p> <p>Det er vigtig at lægge mærke til at de redegørende spørgsmål kommer først. Disse spørgsmål starter ofte med “hvem”, “hvad” eller “hvornår”, og bruges ofte til at beskrive eller definere noget centralt for opgaven.</p> <p>Herefter kommer normalt spørgsmål, der starter med “hvilke” og “hvorfor”, dvs. spørgsmål, der undersøger, analyserer eller forklarer noget. Her går du altså spadestikket dybere og lægger op til at inddrage flere begreber og teorier fra de tre fag.</p> <p>Det sidste underspørgsmål åbner ofte op for at diskutere eller vurdere din problemformulering. Hermed åbnes der op for det højeste faglige niveau, hvor du selvstændigt forholder dig til din problemformulering under inddragelse af fagenes begrebsapparat, teori og metode.</p>"
 }
