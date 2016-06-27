@@ -381,6 +381,8 @@ $(document).ready(function() {
 
 	window.dropZoneObj = null;
 
+	rotateCheck();
+
 
 	$( ".card" ).draggable({
 		revert: function(valid) {
