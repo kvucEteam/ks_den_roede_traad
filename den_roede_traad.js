@@ -354,6 +354,8 @@ console.log('returnRandArray(10,20): ' + JSON.stringify(returnRandArray(10, 20))
 
 $(window).on('resize', function() {
 	setEqualProblemFormulationTextHeight();
+
+	rotateCheck();
 });
 
 
