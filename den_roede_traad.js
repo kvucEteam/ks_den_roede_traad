@@ -358,6 +358,7 @@ $(window).on('resize', function() {
 
 
 $(document).ready(function() {
+	rotateCheck();
 
 	returnUrlPerameters();
 
@@ -381,7 +382,7 @@ $(document).ready(function() {
 
 	window.dropZoneObj = null;
 
-	rotateCheck();
+	
 
 
 	$( ".card" ).draggable({
