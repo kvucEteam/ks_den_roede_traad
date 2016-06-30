@@ -119,7 +119,7 @@
 		{ 	"keyProblem" : "Tyskland",
 			"problemformulations" : [ 
 				{
-					"problemformulation" : "Hvorfor var det nødvendigt for regimerne i det 20. århundredes Tyskland at anvende, fjendebilleder til erobring og fastholdelse af magten?", 
+					"problemformulation" : "Hvorfor var det nødvendigt for regimerne i det 20. århundredes Tyskland at anvende fjendebilleder til erobring og fastholdelse af magten?", 
 					"subQuestions" : [
 						{"subQuestion" : "Hvad er et fjendebillede og hvorfor er et fjendebillede et stærkt politisk middel?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvordan brugte DNSAP og DDR fjendebilleder og hvilke forskelle og ligheder var der i deres brug af fjendebilleder?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
