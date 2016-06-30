@@ -29,7 +29,7 @@
 				{
 					"problemformulation" : "Hvorvidt er ulighed i det senmoderne Danmark et produkt af markedsmekanismer eller bestemte kulturopfattelser?", 
 					"subQuestions" : [
-						{"subQuestion" : "Hvad er ulighed og hvordan han den udviklet sig i DK siden 1990?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad er ulighed og hvordan har den udviklet sig i DK siden 1990?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvordan påvirker sociale og kulturelle baggrunde den sociale mobilitet?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Bevæger det danske samfund sig i retning af mere eller mindre ulighed?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvad var DDRs forhold til indvandring?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
@@ -73,7 +73,7 @@
 		{ 	"keyProblem" : "Frihed og lighed",
 			"problemformulations" : [ 
 				{
-					"problemformulation" : "Når vi nu i de vestlige samfund fremhæver menneskerettighederne som centrale værdier hvordan kan det så være, at vi vores kamp mod terror indskrænker netop disse værdier?", 
+					"problemformulation" : "Når vi nu i de vestlige samfund fremhæver menneskerettighederne som centrale værdier, hvordan kan det så være, at vi vores kamp mod terror indskrænker netop disse værdier?", 
 					"subQuestions" : [
 						{"subQuestion" : "Hvad ligger til grund for de vestlige menneskerettigheder og hvad er det centrale i dem?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvorfor er beskyttelsen af centrale dele af vores menneskerettigheder et problem i forbindelse med bekæmpelsen af terror?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
@@ -96,7 +96,7 @@
 		{ 	"keyProblem" : "Kina",
 			"problemformulations" : [ 
 				{
-					"problemformulation" : "Hvilke udfordringer står KKP overfor efter 1989 og vil KKP være istand til at fastholde magten i Kina?", 
+					"problemformulation" : "Hvilke udfordringer står KKP overfor efter 1989 og vil KKP være i stand til at fastholde magten i Kina?", 
 					"subQuestions" : [
 						{"subQuestion" : "Hvad var baggrunden for opstanden i Kina i 1989?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvordan er det lykkes KKP at fastholde magten i Kina fra 1989 til i dag?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
@@ -129,7 +129,7 @@
 					]
 				},
 				{
-					"problemformulation" : "Hvorfor ser man så stor splittelse i det genforenede Tyskland når genforeningen mellem Øst og Vest blev modtaget med stor begejstring?", 
+					"problemformulation" : "Hvorfor ser man så stor splittelse i det genforenede Tyskland, når genforeningen mellem Øst og Vest blev modtaget med stor begejstring?", 
 					"subQuestions" : [
 						{"subQuestion" : "Hvad var årsagen til sammenlægningen af de to tysklande og hvordan blev sammenlægningen modtaget i de to tysklande?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvilke centrale sociale og politiske forskelle ser man i de to tysklande i dag og hvilke konsekvenser har det haft?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
