@@ -168,14 +168,14 @@
 			"step" : 1,
 			"header" : "Den røde tråd",
 			"instruction" : "Hvor hører underspørgsmålet til? Nu skal du trække underspørgsmålene hen til den rette problemformulering. Nogle af spørgsmålene hører ikke til og skal i skraldespanden.",
-			"explanation" : "Nu skal du lære at vurdere hvilke underspørgsmål der bidrager til besvarelsen af problemformuleringen."
+			"explanation" : "Formålet med øvelsen er, at du lærer at vurdere hvilke underspørgsmål, der bidrager til besvarelsen af problemformuleringen. Du skaber en rød tråd i dit arbejde, når problemformulering og underspørgsmål passer sammen."
 		},
 		{
 			"step" : 2,
 			"header" : "Den røde tråd",
 			"instruction" : "Nu skal du trække underspørgsmålene på plads, så de står i den rigtige rækkefølge. Tænk over den røde tråd og den logiske rækkefølge, som undersøgelsen af problemet bedst præsenteres på.",
-			"explanation" : "Nu skal du lære at finde den logiske rækkefølge i underspørgsmålene."
+			"explanation" : "Du lærer at finde den logiske rækkefølge i underspørgsmålene."
 		}
 	],
-	"generalEndFeedback": "<p>Du har løst opgaven korrekt.</p> <p>Du har vist forståelse for sammenhængen mellem problemformuleringen og underspørgsmålene og hvordan underspørgsmålene har betydning for den røde tråd og strukturen i din samlede besvarelse. Endelig viser du forståelse for de taksonomiske niveauer.</p> <p>Det er vigtig at lægge mærke til at de redegørende spørgsmål kommer først. Disse spørgsmål starter ofte med “hvem”, “hvad” eller “hvornår”, og bruges ofte til at beskrive eller definere noget centralt for opgaven.</p> <p>Herefter kommer normalt spørgsmål, der starter med “hvilke” og “hvorfor”, dvs. spørgsmål, der undersøger, analyserer eller forklarer noget. Her går du altså spadestikket dybere og lægger op til at inddrage flere begreber og teorier fra de tre fag.</p> <p>Det sidste underspørgsmål åbner ofte op for at diskutere eller vurdere din problemformulering. Hermed åbnes der op for det højeste faglige niveau, hvor du selvstændigt forholder dig til din problemformulering under inddragelse af fagenes begrebsapparat, teori og metode.</p>"
+	"generalEndFeedback": "<p>Du har løst opgaven korrekt.</p> <p>Du har vist forståelse for sammenhængen mellem problemformuleringen og underspørgsmålene, og hvordan underspørgsmålene har betydning for den røde tråd og strukturen i din samlede besvarelse. Du viser med andre ord en forståelse for de taksonomiske niveauer.</p> <p>Det er vigtig at lægge mærke til at de redegørende spørgsmål kommer først. Disse spørgsmål starter ofte med “hvem”, “hvad” eller “hvornår”, og bruges ofte til at beskrive eller definere noget centralt for opgaven.</p> <p>Herefter kommer normalt spørgsmål, der starter med “hvilke” og “hvorfor”. Det vil sige spørgsmål, der undersøger, analyserer eller forklarer noget. Her går du altså spadestikket dybere og lægger op til at inddrage flere begreber og teorier fra de tre fag.</p> <p>Det sidste underspørgsmål åbner ofte op for at diskutere eller vurdere din problemformulering. Hermed åbnes der op for det højeste faglige niveau, hvor du selvstændigt forholder dig til din problemformulering.</p>"
 }
