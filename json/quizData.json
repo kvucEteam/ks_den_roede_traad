@@ -6,7 +6,7 @@
 				{
 					"problemformulation" : "Hvorfor fremstilles islam som et fjendebillede i Danmark og udgør islam en reel trussel for det danske samfund?", 
 					"subQuestions" : [
-						{"subQuestion" : "Hvad er fjendebilleder og hvad bruges de til?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad er fjendebilleder og hvordan kommer fjendebilledet af islam til udtryk i Danmark?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvilke årsager kan forklare konflikten mellem muslimer og etniske danskere?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Er det overhovedet muligt forene islam med den danske kultur?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvad var DDRs forhold til indvandring?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
@@ -16,7 +16,7 @@
 				{
 					"problemformulation" : "Hvorfor spillede brugen af fjendebilleder en vigtig rolle for både Hitlers og DDR-styrets overtagelse og fastholdelse af magten?", 
 					"subQuestions" : [
-						{"subQuestion" : "Hvad er fjendebilleder og hvad bruges de til?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad karakteriserede det politiske system i det nazistiske Tyskland og i DDR?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvordan blev fjendebilleder anvendt i henholdsvis Hitler-Tyskland og DDR?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Har fortidens fjendebilleder betydning for Tyskland i dag?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Er det okay at sammenligne Hitlers jødeforfølgelse med DF’s udlændingepolitik?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
@@ -53,7 +53,7 @@
 					"problemformulation" : "Er det lettere at være ung i det senmoderne samfund end det var i det traditionelle samfund?", 
 					"subQuestions" : [
 						{"subQuestion" : "Hvornår opstår ungdomsbegrebet - og hvorfor?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
-						{"subQuestion" : "Hvordan har vilkårene for at udvikle sin identitet som ung ændret sig fra det traditionelle over det moderne til det senmoderne samfund?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvordan har vilkårene for at udvikle sin identitet som ung ændret sig fra det traditionelle til det senmoderne samfund?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvilke udfordringer er forbundet med identitetsdannelse som ung i det senmoderne samfund?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvordan blev de ældre behandlet i det traditionelle samfund?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvorfor er “Paradise Hotel” udtryk for senmodernitet?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
@@ -62,7 +62,7 @@
 				{
 					"problemformulation" : "Hvilke udfordringer er der forbundet med identitetsdannelsen  i det senmoderne samfund sammenlignet med tidligere samfundstyper?", 
 					"subQuestions" : [
-						{"subQuestion" : "Hvad karakteriserer det senmodernesamfund?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
+						{"subQuestion" : "Hvad karakteriserer henholdsvis det traditionelle, moderne og senmoderne samfund?",  "correct": true, "order" : 0, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvorfor skabte det traditionelle og moderne samfund klare rammer og tydelige værdier i forhold til individets identitetsdannelse?",  "correct": true, "order" : 1, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvorfor oplever man tilsyneladende en større grad af rodløshed og anomi i det senmoderne samfund?",  "correct": true, "order" : 2, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}},
 						{"subQuestion" : "Hvorfor bliver klassebevidstheden mindre i det senmoderne samfund?",  "correct": false, "feedback" : {"posetive" : "Det er rigtigt da...", "negative" : "Det er forkert da..."}}
