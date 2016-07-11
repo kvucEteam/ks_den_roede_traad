@@ -403,6 +403,7 @@ $(document).ready(function() {
     },
 		start: function(event, ui) {
 			console.log('card - START');
+			window.topPos = $(this).css('top');
 		},
 		stop: function(event, ui) {
 			console.log('card - STOP');
@@ -426,11 +427,12 @@ $(document).ready(function() {
 				// console.log('card - CORRECT ');
 				// correct_sound();                        
 			} 
-			// else {  // If student answer is wrong...
+			else {  // If student answer is wrong...
 
-			// 	console.log('card - ERROR ');
-			// 	error_sound();								// <------ Does not work on mobile devices - see the solution ATO found above. 
-			// }
+				console.log('card - ERROR ');
+				// error_sound();				// <------ Does not work on mobile devices - see the solution ATO found above. 
+				$(this).css({'top': topPos});   // This is done to make Internet Explore 11 understand that it needs på place the card back to its original position.
+			}
 
 			if ($('#cardPile .card').length == 0) {
 				console.log('step_2_template - INIT');
