@@ -28,8 +28,8 @@ function step_1_template(kpNo, pfNo1, pfNo2) {
 	var HTML = '';
 	HTML += '<h1>'+jsonData.steps[stepNo-1].header+': '+jsonData.keyProblems[kpNo].keyProblem+'</h1>';
 	HTML += '<div class="row">';
-	HTML += 	'<div id="instructionWrap" class="col-xs-12 col-md-8">'+ instruction(jsonData.steps[stepNo-1].instruction)+'</div>';
-	HTML += 	(jsonData.steps[stepNo-1].hasOwnProperty('explanation'))?'<div id="explanationWrap" class="col-xs-12 col-md-8">'+ explanation(jsonData.steps[stepNo-1].explanation)+'</div>' : '';
+	HTML += 	'<div id="instructionWrap">'+ instruction(jsonData.steps[stepNo-1].instruction)+'</div>';
+	HTML += 	(jsonData.steps[stepNo-1].hasOwnProperty('explanation'))?'<div id="explanationWrap">'+ explanation(jsonData.steps[stepNo-1].explanation)+'</div>' : '';
 	HTML += '</div>';
 	HTML += '<div id="step_1_template">';	
 	HTML += 	'<div id="cardAndWasteWrap" class="col-xs-12 col-md-4">';
